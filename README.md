@@ -20,7 +20,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 A seguir, algumas imagens da interface do Instagram clonada neste projeto:
 
-![Página de login]![image](https://user-images.githubusercontent.com/88150795/234608356-a95cf647-c887-4def-8745-905efd027d5a.png)
+[image](https://user-images.githubusercontent.com/88150795/234608356-a95cf647-c887-4def-8745-905efd027d5a.png)
 
 
 
