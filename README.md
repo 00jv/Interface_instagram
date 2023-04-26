@@ -14,7 +14,6 @@ Para rodar o projeto, siga os passos abaixo:
 
 - HTML
 - CSS
-- JavaScript
 
 ## Screenshots
 
