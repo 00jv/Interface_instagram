@@ -20,7 +20,7 @@ Para rodar o projeto, siga os passos abaixo:
 
 A seguir, algumas imagens da interface do Instagram clonada neste projeto:
 
-![Página de login](screenshots/login.png)
+![Página de login](interface_instagram/img/login.png)
 
 
 ## Contribuição
