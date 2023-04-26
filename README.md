@@ -1,7 +1,7 @@
 
 # Clone da interface do Instagram
 
-Este repositório contém um clone da interface do Instagram, desenvolvido como projeto de estudo de Front-end. O objetivo deste projeto é aprimorar habilidades em HTML, CSS e JavaScript, além de conhecer melhor o funcionamento da interface do Instagram.
+Este repositório contém um clone da interface do Instagram, desenvolvido como projeto de estudo de Front-end. O objetivo deste projeto é aprimorar habilidades em HTML, CSS, além de conhecer melhor o funcionamento da interface do Instagram.
 
 ## Como rodar o projeto
 
